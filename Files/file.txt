@@ -1,0 +1,2 @@
+Python is a set of instructions that we give in the form of a Program to our computer to perform any specific task. 
+It is a Programming language having properties like it is interpreted, object-oriented and it is high-level too. Due to its beginner-friendly syntax, it became a clear choice for beginners to start their programming journey. 
