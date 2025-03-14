@@ -61,6 +61,8 @@ def processCommand(c):
         webbrowser.open("https://facebook.com")
     elif "open youtube" in c.lower():
         webbrowser.open("https://youtube.com")
+    elif "open instagram" in c.lower():
+        webbrowser.open("https://instagram.com")
     elif "open linkedin" in c.lower():
         webbrowser.open("https://linkedin.com")
     elif c.lower().startswith("play"):
